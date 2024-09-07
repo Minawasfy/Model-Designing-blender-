@@ -8,6 +8,6 @@ I included 2 pdf files that has hotkeys and tips for using blender quickly
 
 *![Donuts with geometry nodes](https://github.com/Minawasfy/Model-Designing-blender-/blob/main/First%20project/Final.png)
 
-*![Electric rune sword](https://github.com/Minawasfy/Model-Designing-blender-/blob/main/Second%20project/0001-0096.mp4)
+*![Electric rune sword](https://github.com/Minawasfy/Model-Designing-blender-/blob/main/Third%20project/Final%201.png)
 
 *![Victorian Cup](https://github.com/Minawasfy/Model-Designing-blender-/blob/main/Fourth%20project/tmp/0001.png)
